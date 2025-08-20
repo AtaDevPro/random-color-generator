@@ -22,5 +22,5 @@ When you click the button, the background color changes and the RGB code is disp
 
 
 ## 🧑‍💻 Author
-AtaDevPro[https://github.com/AtaDevPro]
+[AtaDevPro](https://github.com/AtaDevPro)
 
