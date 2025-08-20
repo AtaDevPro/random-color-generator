@@ -21,10 +21,6 @@ When you click the button, the background color changes and the RGB code is disp
 ---
 
 
-🧑‍💻 Author
-AtaDevPro
+## 🧑‍💻 Author
+AtaDevPro[https://github.com/AtaDevPro]
 
----
-
-📄 License
-This game is open source and available under the MIT License.
