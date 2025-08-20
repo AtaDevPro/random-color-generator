@@ -21,12 +21,10 @@ When you click the button, the background color changes and the RGB code is disp
 ---
 
 
-## 📂 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/random-color-generator.git
-```
+🧑‍💻 Author
+AtaDevPro
 
-👨‍💻 Author
+---
 
-Developed with ❤️ by (AtaDevPro)[https://github.com/AtaDevPro]
+📄 License
+This game is open source and available under the MIT License.
